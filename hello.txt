@@ -11,6 +11,6 @@ hello gitHub!!!
 hello gitHub!!!
 hello gitHub!!!
 hello gitHub!!!
-hello gitHub!!!
+hello gitHub!!!hot-fix test2
 hello gitHub!!!hot-fix test1
 hello gitHub!!!master test1

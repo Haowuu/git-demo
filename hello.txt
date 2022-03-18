@@ -1,18 +1,1 @@
-hello git!!!2222
-hello git!!!3333
-hello git!!!
-hello git!!!
-hello git!!!
-hello git!!!
-hello git!!!
-hello gitHub!!!
-hello gitHub!!!
-hello gitHub!!!
-hello gitHub!!!
-hello gitHub!!!
-hello gitHub!!!
-hello gitHub!!!hot-fix test2
-hello gitHub!!!hot-fix test1
-hello gitHub!!!master test1
-来自在线编辑的代码内容
-我想删掉上面的内容
+我已经删掉上面的内容
